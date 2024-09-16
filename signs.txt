@@ -1,0 +1,11 @@
+0 Stop
+1 Forward
+2 Pedestrian
+3 Bus
+4 Left
+5 Right
+6 Red
+7 Yellow
+8 Green
+9 Cone
+10 Cyclist
