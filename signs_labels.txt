@@ -1,0 +1,11 @@
+0 Red Light
+1 Yellow Light
+2 Green Light
+3 Stop Sign
+4 Cone
+5 Cyclist
+6 Bus
+7 Forward Sign
+8 Left Sign
+9 Right Sign
+10 Pedestrian
